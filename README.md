@@ -1,10 +1,10 @@
-## Hi Everyone, Konbanwa!
-My name is Suyal, and I'm a undergraduate computer science student interested in DevOps and AppDev n all.
+  ## Hi Everyone, Konbanwa!
+  My name is Suyal, and I'm a undergraduate computer science student interested in DevOps and AppDev n all.
 
-- ☕︎ I’m currently working on Queuely, building an SaaS product for barbershops.
-- 🧐 I’m currently learning Docker, Kubernetes, Ansible ...
+  ☕︎ I’m currently working on Queuely, building an SaaS product for barbershops.
+  🧐 I’m currently learning Docker, Kubernetes, Ansible ...
 
-- Tech Stacks Used
+  ## Tech Stacks Used
 
   
   <img width="50" height="50" alt="ansible" src="https://github.com/user-attachments/assets/d87511c0-fd1a-4dfe-85da-af31d2b02e0b" />
