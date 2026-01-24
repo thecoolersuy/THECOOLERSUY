@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello guys, Konbanwa!
 My name is Suyal, and I'm a undergraduate computer science student interested in all things Devops & App Development!
 
 - 🔭 I’m currently working on Queuely, building an SaaS product for barbershops.
