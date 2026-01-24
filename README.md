@@ -1,8 +1,8 @@
 ## Hi Everyone, Konbanwa!
-My name is Suyal, and I'm a undergraduate computer science student interested in all things Devops & App Development!
+My name is Suyal, and I'm a undergraduate computer science student interested in DevOps and AppDev n all.
 
-- 🔭 I’m currently working on Queuely, building an SaaS product for barbershops.
-- 🌱 I’m currently learning Docker, Kubernetes, Ansible ...
+- ☕︎ I’m currently working on Queuely, building an SaaS product for barbershops.
+- 🧐 I’m currently learning Docker, Kubernetes, Ansible ...
 
 - Tech Stacks Used
 
