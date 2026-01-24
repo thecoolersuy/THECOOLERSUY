@@ -5,7 +5,8 @@ My name is Suyal, and I'm a undergraduate computer science student interested in
 - 🌱 I’m currently learning Docker, Kubernetes, Ansible ...
 
 - Tech Stacks Used
-- 
+
+  
   <img width="50" height="50" alt="ansible" src="https://github.com/user-attachments/assets/d87511c0-fd1a-4dfe-85da-af31d2b02e0b" />
   <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/62c4d2fe-005d-4f12-8a24-b15408497b95" />
   <img width="45" height="45" alt="linux" src="https://github.com/user-attachments/assets/0a6ca70f-0228-4fab-a927-884784ed82e1" />
