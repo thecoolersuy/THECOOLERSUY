@@ -6,10 +6,6 @@
   🧐 I’m currently learning Docker, Kubernetes, Ansible ...
 
   ## 🛠 Tech Stack
-
-
-
-
   
   <img width="50" height="50" alt="ansible" src="https://github.com/user-attachments/assets/d87511c0-fd1a-4dfe-85da-af31d2b02e0b" />
   <img width="50" height="50" alt="docker" src="https://github.com/user-attachments/assets/62c4d2fe-005d-4f12-8a24-b15408497b95" />
@@ -17,3 +13,8 @@
   <img width="40" height="40" alt="kotlin" src="https://github.com/user-attachments/assets/ded95bd1-4d42-4c42-8088-3c6e3d40e9b9" />
   <img width="52" height="52" alt="node_js" src="https://github.com/user-attachments/assets/31e6dfc7-8608-43bd-b2b9-9175eabe53ed" />
   <img width="50" height="50" alt="express" src="https://github.com/user-attachments/assets/8477f42e-c139-4ff5-ac3d-24cc531ce628" />
+ 
+  ## QuoteOTY
+   Throw a rope into the sky, even if you miss you got nothing to lose. 
+   If you win, you got yourself the moon. 
+  
