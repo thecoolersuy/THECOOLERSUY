@@ -14,7 +14,7 @@
   <img width="52" height="52" alt="node_js" src="https://github.com/user-attachments/assets/31e6dfc7-8608-43bd-b2b9-9175eabe53ed" />
   <img width="50" height="50" alt="express" src="https://github.com/user-attachments/assets/8477f42e-c139-4ff5-ac3d-24cc531ce628" />
 
-   ![image alt](https://github.com/thecoolersuy/THECOOLERSUY/blob/72bf12e58fb7d7e4acca3ebfd45f46d7f5502f36/happy-cat-happy-happy-cat.gif)
+
    ## QuoteOTY
    Throw a rope into the sky, even if you miss you got nothing to lose. 
    
