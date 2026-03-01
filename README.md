@@ -15,10 +15,7 @@
   <img width="50" height="50" alt="express" src="https://github.com/user-attachments/assets/8477f42e-c139-4ff5-ac3d-24cc531ce628" />
 
 
-   ## QuoteOTY
-   Throw a rope into the sky, even if you miss you got nothing to lose. 
    
-   If you win, you got yourself the moon. 
                                                                           
                                                                           
            
