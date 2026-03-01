@@ -1,4 +1,4 @@
-  ## Hi Everybody! 🫵 I'm Suuyal!
+  ## Hi Everybody! 🫵 I'm Suyal!
   My name is Suyal, and I'm a undergraduate computer science student interested in DevOps and AppDev n all.
 
   ☕︎ I’m currently working on Queuely, building an SaaS product for barbershops.
