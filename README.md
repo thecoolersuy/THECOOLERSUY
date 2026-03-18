@@ -3,7 +3,7 @@
 
   ☕︎ I’m currently working on Queuely, building an SaaS product for barbershops.
   
-  🧐 I’m currently learning Docker, Kubernetes, Ansible ...
+  🧐 I’m currently learning TypeScript
 
   ## 🛠 Tech Stack
   
