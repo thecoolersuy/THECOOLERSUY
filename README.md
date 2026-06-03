@@ -8,7 +8,7 @@
   ## 🛠 Tech Stack
 
    <p>
-     <img src="https://skillicons.dev/icons?i=javascript,react,redux,tailwind,html,css,git,docker,nextjs,vue" />
+     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,html,css,git,docker,nextjs,vue" />
    </p>
 
 
