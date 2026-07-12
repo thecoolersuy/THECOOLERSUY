@@ -1,7 +1,8 @@
-e  ## Hi Everybody! 🫵 
-  My name is Suyal, and I'm a undergraduate computer science student interested in DevOps and AppDev n all.
+## Hi Everybody! 🫵 
+  My name is Suyal, and I'm a undergraduate computer science student fascinated by **System Design**, **Scalability**, and **Security**. I spend my time learning how to build robust, distributed systems that don't fall over like a house of cards when traffic hits, while ensuring hackers have a very bad day trying to break them.
+.
 
-  ☕︎ I’m currently working on Queuely, building an SaaS product for barbershops.
+  ☕︎ I’m currently working on Sheercart, a cart sharing system.
   
   🧐 I’m currently learning TypeScript
 
