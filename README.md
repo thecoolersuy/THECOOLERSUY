@@ -1,35 +1,24 @@
-## Hi Everybody!
+<div align="center">
 
-  My name is Suyal, and I'm a undergraduate computer science student fascinated by **System Design**, **Scalability**, and **Security**. I spend my time learning how to build robust, distributed systems that don't fall over like a house of cards when traffic hits.
-
-hobby: surprising my repo at 2 a.m. with new project
-
-
-  ☕︎ I’m currently working on Purr'Coffee POS, a browser based POS system.
-  
-  🧐 I’m currently learning C# and .NET Ecosystem.
-
-  ## 🛠 Tech Stack
-
-
-   <p>
-     <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,react,redux,tailwind,html,css,git,nextjs,postman,jest,mysql" />
-     <img width="50" height="50" alt="zustand-auto" src="https://github.com/user-attachments/assets/c92195d3-8989-4832-a205-a62998de841c" />
-     <img width="50" height="50" alt="tanstack-auto" src="https://github.com/user-attachments/assets/f30de45f-4806-4e39-a3c3-35f5c2cb3e18" />
-
-     
-
-
-   </p>
+<a href="https://www.linkedin.com/in/matt2chang/">
+  <img src="cover.png" width="920" alt="Suyal - .NET/React Developer"/>
+</a>
 
 
 
+<img src="black.gif" width="280" alt="Rotating Cube">
 
+<h1>💻 Tech Stack</h1> 
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,react,redux,tailwind,html,css" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,nextjs,postman,jest,mysql,dotnet,github" />
+</p>
+<p>
+  <img width="50" height="50" alt="zustand" src="https://github.com/user-attachments/assets/c92195d3-8989-4832-a205-a62998de841c" />
+  <img width="50" height="50" alt="tanstack" src="https://github.com/user-attachments/assets/f30de45f-4806-4e39-a3c3-35f5c2cb3e18" />
+</p>
 
-
-   
-                                                                          
-                                                                          
-           
-   
-  
+</div>
