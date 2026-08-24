@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/matt2chang/">
+<a href="https://www.linkedin.com/in/suyal-sahukhal-259a1b333/">
   <img src="cover.png" width="920" alt="Suyal - .NET/React Developer"/>
 </a>
 
