@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,react,redux,tailwind,html,css" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,nextjs,postman,jest,mysql,dotnet,github" />
+  <img src="https://skillicons.dev/icons?i=git,nextjs,postman,jest,mysql,dotnet,github,docker" />
 </p>
 <p>
   <img width="50" height="50" alt="zustand" src="https://github.com/user-attachments/assets/c92195d3-8989-4832-a205-a62998de841c" />
