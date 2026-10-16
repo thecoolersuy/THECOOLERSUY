@@ -6,7 +6,7 @@
 
 
 
-<img src="black.gif" width="280" alt="Rotating Cube">
+<img src="black.gif" width="350" alt="Rotating Cube">
 
 <h1>💻 Tech Stack</h1> 
 <br>
